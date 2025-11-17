@@ -1,0 +1,5 @@
+{
+  "name": "Photo Fusion AI",
+  "description": "An AI-powered photo editing application that allows users to upload a base image, a logo, and provide a text prompt to generate a new, edited image by fusing the elements together using Gemini.",
+  "requestFramePermissions": []
+}
